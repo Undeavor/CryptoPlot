@@ -42,12 +42,7 @@ An **offline cryptocurrency price dashboard** built with **Streamlit** to visual
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/crypto-dashboard.git
-cd crypto-dashboard
-```
+1. DL files
 
 2. Install dependencies:
 
