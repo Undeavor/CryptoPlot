@@ -61,3 +61,10 @@ pip install streamlit pandas numpy plotly scikit-learn
 ```bash
 streamlit run dashboard.py
 ```
+
+4. Update the database
+
+
+```bash
+python3 update.py
+```
