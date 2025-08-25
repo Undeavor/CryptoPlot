@@ -47,3 +47,17 @@ An **offline cryptocurrency price dashboard** built with **Streamlit** to visual
 ```bash
 git clone https://github.com/yourusername/crypto-dashboard.git
 cd crypto-dashboard
+```
+
+2. Install dependencies:
+
+```bash
+pip install streamlit pandas numpy plotly scikit-learn
+```
+
+3. Launch the dashboard
+
+
+```bash
+streamlit run dashboard.py
+```
